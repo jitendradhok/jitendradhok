@@ -1,6 +1,6 @@
 <div align="right">
 
-    [Portfolio](https://portfolio-jitendra1.netlify.app/) | [Linkedin](https://www.linkedin.com/in/jitendra-dhok-42669b281/) | [Twitter](https://x.com/jitendra_dhok )
+    [Portfolio](https://portfolio-jitendra1.netlify.app/) | [Linkedin](https://www.linkedin.com/in/jitendra-dhok-42669b281/) | [Twitter](https://x.com/jitendra_dhok)
     
     </div>
     
