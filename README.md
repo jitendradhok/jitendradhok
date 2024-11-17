@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there 
 
-My Name is [**Anil Seervi**](https://anil.vercel.app)
+My Name is [**Jitendra Dhok**]()
   
 I'm a self taught Front-End Developer, SDE at **@Zenduty**.
   
