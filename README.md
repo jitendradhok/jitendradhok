@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there 
 
-My Name is [**Jitendra Dhok**]()
+My Name is [**Jitendra Dhok**](https://portfolio-jitendra1.netlify.app)
   
 I'm a self taught Front-End Developer, SDE at **@Zenduty**.
   
