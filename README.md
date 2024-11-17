@@ -72,15 +72,16 @@ Currently learning React.js and TypeScript.
 
 ## 🚧 Projects
 
-- [👀 Portfolio Site](https://anil.vercel.app) - Personal Portfolio Site
-- [💼 DevFolio](https://devfolio.js.org) - Well documented Portfolio [Template](https://github.com/AnilSeervi/DevFolio).
-- [📝 Blog](https://anil.gatsbyjs.io) - Personal blog site.
-- [🎓 QP Hoard](https://qp.pages.dev) - PWA Hoarding Question Papers for undergrads.
-- [🌩️ Atmos](https://atmos.pages.dev) - The Modern UI Weather App.
-- [🥘 Recipes Counter](https://recipes-counter.web.app) - Fullstack Recipes logging PWA.
-- [⏳ Pomodorox](https://pomodorox.pages.dev) - Hourglass concept pomodoro timer.
-
-...explore my [other repos](https://github.com/AnilSeervi?tab=repositories) for more projects.
+    - [👀 Portfolio Site](https://portfolio-jitendra1.netlify.app) - Personal Portfolio Site.
+    - [📝 Website](https://mayurrentalservices.com/) - My Freelancing Work Site.
+    - [✍ designing](https://modern-chair-76c43d.netlify.app/) - A Website for designer to showcase her works.
+    - [🌩️ Atmos]() - The Modern UI Weather App.
+    - [↻ ◁ || ▷ ↺ Player](https://music-player-fc1347.netlify.app/) - Music Player.
+  
+    
+    ...explore my [other repos](https://github.com/jitendradhok?tab=repositories) for more projects.
+    
+    - How to reach me jitendradhokinfo@gmil.com
 
 <div align="center">
 
